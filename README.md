@@ -154,6 +154,6 @@ retro-waves-strawhats/
 
 ---
 
-**Youtube link** = [link](https://youtu.be/FcUCQc84PkA?si=sUZ3mPAZqvhfu2B8)
+**Youtube link** = [link](]https://youtu.be/NwrHbWzcxGI)
 
 🌊 **Set sail, pirate!** 🏴‍☠️  
