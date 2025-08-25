@@ -16,7 +16,7 @@ def check_riddle_solution(state: ChatState, user_input: str):
         "usopp": ["18"],
         "sanji": ["79"],
         "zoro": ["28"],
-        "boa": ["YOU ALL TREASURE TELL BOA HANCOCK SO SHE WILL GIVE"]
+        "boa": ["28261879"]  # Fixed the answer
     }
 
     order = ["nami", "usopp", "sanji", "zoro", "boa"]
